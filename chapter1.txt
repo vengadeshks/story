@@ -1,1 +1,1 @@
-This is my first project on the git and git version control.
+This is my first project on the git and version control.
